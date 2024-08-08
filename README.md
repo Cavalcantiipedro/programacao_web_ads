@@ -1,2 +1,2 @@
 # p.web.ads
-Repositório da disciplina de Programação web,ADS
+Repositório da disciplina de Programação WEB - ADS - CEUB
