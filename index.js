@@ -52,3 +52,4 @@ function validaCPF(cpf) {
 
  //"=="compara só valor//
 //"==="compara valor e tipo de variavel//
+//
